@@ -1,7 +1,7 @@
 # dkeeper
 
 Welcome to my new dkeeper project and to the internet computer development community. 
-A demo showing the working is publish on [Youtube](https://youtu.be/p-u99gibKAo).
+A demo showing the working is published on [Youtube](https://youtu.be/p-u99gibKAo).
 
 
 ## Runnig keeper App
