@@ -3,6 +3,8 @@
 Welcome to my new dkeeper project and to the internet computer development community. 
 A demo showing the working is published on [Youtube](https://youtu.be/p-u99gibKAo).
 
+It was build on **Internet Computer** using **Mototko** language and **React** as front end.
+
 
 ## Runnig keeper App
 By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
